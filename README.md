@@ -16,4 +16,5 @@ Usage:
    node app.js remove --title="Note Title"
 
 Data Storage:
+
 This app uses JSON files to store notes. Each note is stored as a separate JSON file in the data directory.
